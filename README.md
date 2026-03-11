@@ -4,7 +4,7 @@ A collection of Linux kernel modules that provide system monitoring and informat
 
 ## Projects
 
-This repository contains two kernel modules:
+This repository contains kernel modules:
 
 ### 1. System Monitor (`system-monitor/`)
 A kernel module that provides real-time system information through a virtual file at `/proc/sys_monitor`.
